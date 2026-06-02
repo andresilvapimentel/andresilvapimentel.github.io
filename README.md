@@ -170,7 +170,7 @@ Rio de Janeiro, Brazil
 - Python
 - PyTorch
 - Tensorflow
-- Kerass
+- Keras
 - Scikit-learn
 - SHAP
 - LIME
