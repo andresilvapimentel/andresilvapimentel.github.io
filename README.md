@@ -1,7 +1,7 @@
 # André Silva Pimentel
 
 <p align="center">
-  <img src="images/profile.jpg" alt="André Silva Pimentel" width="250"/>
+  <img src="images/Minha foto_IA.png" alt="André Silva Pimentel" width="250"/>
 </p>
 
 <p align="center">
