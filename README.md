@@ -188,14 +188,6 @@ Rio de Janeiro, Brazil
 
 ---
 
-## Repository Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresilvapimentel&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andresilvapimentel&layout=compact)
-
----
-
 ## Quote
 
 > "Science advances through curiosity, rigor, and collaboration."
