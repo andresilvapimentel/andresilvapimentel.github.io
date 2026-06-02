@@ -93,17 +93,17 @@ My research focuses on developing computational and data-driven approaches to un
 
 Selected publications:
 
-Rosa et al. Toxic Alerts of Endocrine Disruption Revealed by Explainable Artificial Intelligence. Environment & Health, v. 3, p. 321-333, 2025.
+Rosa et al. Toxic Alerts of Endocrine Disruption Revealed by Explainable Artificial Intelligence. Environment & Health, v. 3, p. 321-333, 2025. (https://doi.org/10.1021/envhealth.4c00218)
 
-Rosa et al. Applying local interpretable model-agnostic explanations to identify substructures that are responsible for mutagenicity of chemical compounds. Molecular Systems Design & Engineering, v. 9, p. 920-936, 2024.
+Rosa et al. Applying local interpretable model-agnostic explanations to identify substructures that are responsible for mutagenicity of chemical compounds. Molecular Systems Design & Engineering, v. 9, p. 920-936, 2024. (https://doi.org/10.1039/D4ME00038B)
 
-Gralha et al. Gotcha GPT: Ensuring the Integrity in Academic Writing. Journal of Chemical Information and Modeling, v. 64, p. 8091-8097, 2024.
+Gralha et al. Gotcha GPT: Ensuring the Integrity in Academic Writing. Journal of Chemical Information and Modeling, v. 64, p. 8091-8097, 2024. (https://doi.org/10.1021/acs.jcim.4c01203)
 
-Rosa et al. Identifying Substructures That Facilitate Compounds to Penetrate the Blood-Brain Barrier via Passive Transport Using Machine Learning Explainer Models. ACS Chemical Neuroscience, v. 15, p. 2144-2159, 2024.
+Rosa et al. Identifying Substructures That Facilitate Compounds to Penetrate the Blood-Brain Barrier via Passive Transport Using Machine Learning Explainer Models. ACS Chemical Neuroscience, v. 15, p. 2144-2159, 2024. (https://doi.org/10.1021/acschemneuro.3c00840)
 
-Nascimento et al. Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. Journal of Chemical Information and Modeling, v. 63, p. 1649-1655, 2023.
+Nascimento et al. Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. Journal of Chemical Information and Modeling, v. 63, p. 1649-1655, 2023. (https://doi.org/10.1021/acs.jcim.3c00285)
 
-Nascimento et al. Generating structural alerts from toxicology datasets using the local interpretable model-agnostic explanations method. Digital Discovery, v. 2, p. 1311-1325, 2023.
+Nascimento et al. Generating structural alerts from toxicology datasets using the local interpretable model-agnostic explanations method. Digital Discovery, v. 2, p. 1311-1325, 2023. (https://doi.org/10.1039/D2DD00136E)
 
 
 A complete list of publications is available through:
