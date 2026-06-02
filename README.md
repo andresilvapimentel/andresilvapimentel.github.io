@@ -1,10 +1,11 @@
-# André Silva Pimentel
-
 <p align="center">
-  <img src="images/foto.jpg" alt="André Silva Pimentel" width="250"/>
+<img src="foto.jpg" alt="drawing" width="200"/>
 </p>
 
 <p align="center">
+  <b>Prof. Dr. André Silva Pimentel</b>
+  
+<p align="center">  
   <b>Associate Professor | Researcher | Computational Chemist</b>
 </p>
 
