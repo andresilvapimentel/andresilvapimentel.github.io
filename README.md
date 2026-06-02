@@ -89,6 +89,21 @@ My research focuses on developing computational and data-driven approaches to un
 
 ---
 
+## Research group
+
+- Felipe Rodrigues de Souza (Postdoc)
+- Rayla Kelly Magalhães Costa (PhD Stundent)
+- Rudielson dos Santos Silva (PhD Stundent) (supervisor: Francisco Chagas at UFPI)
+- Marcelo Guilherme Silva de Albuquerque (Master Student)
+- Marina Damazo (Master Student)
+- Gabriel Seuffetelles Purificação (Master Student) (co-supervisor: Carlos Soares at UFRJ)
+- Olalekan Adeola Ogunlade (Master Student)
+- Maria Carolina Jorge A. Schneider (Undergraduate Student)
+- Barbara Saraiva de Souza (Undergraduate Student)
+
+
+---
+
 ## Publications
 
 Selected publications:
@@ -123,19 +138,6 @@ A complete list of publications is available through:
 | LinkedIn | https://www.linkedin.com/in/andre-pimentel-39457a306/ |
 | Instagram | https://www.instagram.com/profapimentel/ | 
 | GitHub | https://github.com/andresilvapimentel |
-
----
-
-## Research Interests
-
-### Artificial Intelligence in Chemistry
-Research projects focused on machine learning and deep learning applications in chemical sciences.
-
-### Molecular Simulation
-Computational studies involving molecular dynamics and biomolecular systems.
-
-### Open Science
-Development of open-source tools, datasets, and educational resources.
 
 ---
 
